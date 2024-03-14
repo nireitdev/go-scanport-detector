@@ -3,7 +3,7 @@ config:
   device: "eth0"
   ip: "192.168.0.1"
   portrange: "1-1001"
-  portignore: "22,53,443"
+  portignore: "22,53,80,443,8080"
 
 # Server configurations
 redis:
