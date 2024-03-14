@@ -27,8 +27,8 @@ go run main.go
 Information loaded from config.yml:
 
 - device: local network device 
-- ip: specific ip to watch
-- portrange: only scan this range of IPs
+- ip: specific local ip to watch
+- portrange: only scan this range of local ports
 - portignore: don't care this common ports
 
 ## To Do:
