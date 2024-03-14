@@ -22,6 +22,14 @@ Finally run:
 go run main.go
 ```
 
+## Config
+
+Information loaded from config.yml:
+
+- device: local network device 
+- ip: specific ip to watch
+- portrange: only scan this range of IPs
+- portignore: don't care this common ports
 
 ## To Do:
 - Detect more advanced features of Nmap's port scanning.
