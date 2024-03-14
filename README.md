@@ -1,4 +1,4 @@
-# Go Scanport Detector
+# Scanport Detector
 
 A simple tool to detect port scans on servers. 
 
